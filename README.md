@@ -2,8 +2,4 @@
 
 # SFG Brewery Beer Service
 
-Source code in this repository is to support my online courses.
-
-Learn more about my courses below!
-* [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?couponCode=GIT_HUB2)
-
+This version contains configuration file changes needed for Docker deployment.  See Section 29 of SFG SpringBoot/SpringCloud
